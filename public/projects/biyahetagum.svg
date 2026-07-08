@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#EFEAD9"/>
+  <rect x="0" y="0" width="800" height="44" fill="#1B2420"/>
+  <circle cx="24" cy="22" r="6" fill="#E2694F"/>
+  <circle cx="46" cy="22" r="6" fill="#E2AB5C"/>
+  <circle cx="68" cy="22" r="6" fill="#4FBFA0"/>
+  <text x="400" y="27" font-family="monospace" font-size="13" fill="#C7C2B2" text-anchor="middle">biyahetagum.app / dispatch</text>
+
+  <rect x="0" y="44" width="180" height="456" fill="#16281F"/>
+  <rect x="24" y="76" width="132" height="10" rx="2" fill="#4FBFA0"/>
+  <rect x="24" y="108" width="100" height="8" rx="2" fill="#5A6B62"/>
+  <rect x="24" y="132" width="112" height="8" rx="2" fill="#5A6B62"/>
+  <rect x="24" y="156" width="90" height="8" rx="2" fill="#5A6B62"/>
+  <rect x="24" y="180" width="120" height="8" rx="2" fill="#5A6B62"/>
+  <rect x="16" y="100" width="4" height="20" fill="#4FBFA0"/>
+
+  <rect x="204" y="72" width="168" height="86" rx="8" fill="#FFFFFF" stroke="#D9D3C1"/>
+  <text x="222" y="98" font-family="monospace" font-size="11" fill="#7A8078">DAILY FARE</text>
+  <text x="222" y="132" font-family="Georgia, serif" font-size="26" fill="#1B2420">₱ 48,920</text>
+
+  <rect x="388" y="72" width="168" height="86" rx="8" fill="#FFFFFF" stroke="#D9D3C1"/>
+  <text x="406" y="98" font-family="monospace" font-size="11" fill="#7A8078">UNITS OUT</text>
+  <text x="406" y="132" font-family="Georgia, serif" font-size="26" fill="#1B2420">32 / 40</text>
+
+  <rect x="572" y="72" width="168" height="86" rx="8" fill="#FFFFFF" stroke="#D9D3C1"/>
+  <text x="590" y="98" font-family="monospace" font-size="11" fill="#7A8078">ON-TIME</text>
+  <text x="590" y="132" font-family="Georgia, serif" font-size="26" fill="#1F6F5C">94%</text>
+
+  <rect x="204" y="176" width="536" height="252" rx="8" fill="#FFFFFF" stroke="#D9D3C1"/>
+  <text x="222" y="204" font-family="monospace" font-size="11" fill="#7A8078">DISPATCH QUEUE — TOTT TERMINAL</text>
+  <g font-family="monospace" font-size="11" fill="#4A5850">
+    <rect x="222" y="220" width="500" height="1" fill="#EDE9DC"/>
+    <text x="222" y="246">TG-014</text><text x="300" y="246">Route 3</text><text x="440" y="246">Boarding</text><text x="640" y="246" fill="#1F6F5C">On time</text>
+    <rect x="222" y="258" width="500" height="1" fill="#EDE9DC"/>
+    <text x="222" y="284">TG-021</text><text x="300" y="284">Route 1</text><text x="440" y="284">Dispatched</text><text x="640" y="284" fill="#1F6F5C">On time</text>
+    <rect x="222" y="296" width="500" height="1" fill="#EDE9DC"/>
+    <text x="222" y="322">TG-009</text><text x="300" y="322">Route 3</text><text x="440" y="322">Loading</text><text x="640" y="322" fill="#E2AB5C">Delayed 4m</text>
+    <rect x="222" y="334" width="500" height="1" fill="#EDE9DC"/>
+    <text x="222" y="360">TG-032</text><text x="300" y="360">Route 2</text><text x="440" y="360">Boarding</text><text x="640" y="360" fill="#1F6F5C">On time</text>
+  </g>
+  <polyline points="222,404 262,392 302,398 342,376 382,384 422,362 462,368 502,344 542,352 582,330 622,336 662,318" fill="none" stroke="#1F6F5C" stroke-width="2.5"/>
+</svg>

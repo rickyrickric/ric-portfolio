@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#EFEAD9"/>
+  <rect x="0" y="0" width="800" height="44" fill="#1B2420"/>
+  <circle cx="24" cy="22" r="6" fill="#E2694F"/>
+  <circle cx="46" cy="22" r="6" fill="#E2AB5C"/>
+  <circle cx="68" cy="22" r="6" fill="#4FBFA0"/>
+  <text x="400" y="27" font-family="monospace" font-size="13" fill="#C7C2B2" text-anchor="middle">weathering-with-you.app / tagum</text>
+
+  <rect x="32" y="72" width="320" height="368" rx="8" fill="#164F41"/>
+  <text x="56" y="112" font-family="monospace" font-size="12" fill="#9FD9C4">TAGUM CITY</text>
+  <text x="56" y="180" font-family="Georgia, serif" font-size="64" fill="#F2F1EC">29°</text>
+  <text x="56" y="208" font-family="monospace" font-size="12" fill="#9FD9C4">Partly cloudy · feels 32°</text>
+
+  <circle cx="270" cy="140" r="26" fill="#E2AB5C"/>
+  <ellipse cx="255" cy="160" rx="34" ry="18" fill="#F2F1EC" opacity="0.9"/>
+
+  <g font-family="monospace" font-size="10" fill="#9FD9C4">
+    <text x="56" y="256">Humidity</text><text x="180" y="256">78%</text>
+    <text x="56" y="278">Wind</text><text x="180" y="278">11 km/h ENE</text>
+    <text x="56" y="300">Rain chance</text><text x="180" y="300">62%</text>
+    <text x="56" y="322">UV index</text><text x="180" y="322">6 · High</text>
+  </g>
+
+  <line x1="56" y1="344" x2="328" y2="344" stroke="#2C4A3F"/>
+  <text x="56" y="368" font-family="monospace" font-size="10" fill="#9FD9C4">MODEL SOURCES</text>
+  <text x="56" y="390" font-family="monospace" font-size="10" fill="#F2F1EC">OpenWeather · Open-Meteo · PAGASA</text>
+  <text x="56" y="412" font-family="monospace" font-size="10" fill="#F2F1EC">blended via regression service</text>
+
+  <rect x="376" y="72" width="392" height="176" rx="8" fill="#FFFFFF" stroke="#D9D3C1"/>
+  <text x="396" y="100" font-family="monospace" font-size="11" fill="#7A8078">7-DAY FORECAST</text>
+  <polyline points="396,200 448,190 500,206 552,176 604,196 656,162 708,182 748,150"
+    fill="none" stroke="#1F6F5C" stroke-width="2.5"/>
+  <g fill="#1F6F5C">
+    <circle cx="396" cy="200" r="3"/><circle cx="448" cy="190" r="3"/><circle cx="500" cy="206" r="3"/>
+    <circle cx="552" cy="176" r="3"/><circle cx="604" cy="196" r="3"/><circle cx="656" cy="162" r="3"/>
+    <circle cx="708" cy="182" r="3"/><circle cx="748" cy="150" r="3"/>
+  </g>
+  <g font-family="monospace" font-size="9" fill="#7A8078">
+    <text x="386" y="228">MON</text><text x="438" y="228">TUE</text><text x="490" y="228">WED</text>
+    <text x="542" y="228">THU</text><text x="594" y="228">FRI</text><text x="646" y="228">SAT</text><text x="698" y="228">SUN</text>
+  </g>
+
+  <rect x="376" y="264" width="392" height="176" rx="8" fill="#FFFFFF" stroke="#D9D3C1"/>
+  <text x="396" y="292" font-family="monospace" font-size="11" fill="#7A8078">MODEL AUDIT — LAST PASS</text>
+  <g font-family="monospace" font-size="10" fill="#4A5850">
+    <text x="396" y="322">UI/UX score</text><text x="620" y="322" fill="#1F6F5C">8.4 / 10</text>
+    <text x="396" y="346">Open issues</text><text x="620" y="346" fill="#E2AB5C">3 minor</text>
+    <text x="396" y="370">Forecast drift</text><text x="620" y="370" fill="#1F6F5C">− 0.6°C</text>
+    <text x="396" y="394">Last audited</text><text x="620" y="394">v2.3</text>
+  </g>
+</svg>

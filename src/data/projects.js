@@ -4,6 +4,8 @@ export const projects = [
     line: "Fare Line",
     name: "BiyaheTagum RMS",
     status: "In development",
+    image: "/projects/biyahetagum.svg",
+    link: "https://github.com/",
     problem:
       "Transport cooperatives at TOTT Terminal in Tagum City track fares, dispatch, and fleet activity by hand — revenue leaks through the cracks and nobody has a clear view of the day's operations.",
     solution:
@@ -17,6 +19,8 @@ export const projects = [
     line: "Circuit Line",
     name: "24 Fit Camp",
     status: "Coursework — shipped",
+    image: "/projects/fitcamp.svg",
+    link: "https://github.com/",
     problem:
       "Local gyms run memberships, class schedules, staff shifts, and billing across spreadsheets and paper logs, with no single system tying it together.",
     solution:
@@ -30,6 +34,8 @@ export const projects = [
     line: "Forecast Line",
     name: "Weathering With You",
     status: "Actively refined",
+    image: "/projects/weathering.svg",
+    link: "https://github.com/",
     problem:
       "General-purpose weather apps miss the hyperlocal detail that actually matters for a specific city — Tagum's forecasts get flattened into a wider regional average.",
     solution:

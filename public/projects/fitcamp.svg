@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#EFEAD9"/>
+  <rect x="0" y="0" width="800" height="44" fill="#1B2420"/>
+  <circle cx="24" cy="22" r="6" fill="#E2694F"/>
+  <circle cx="46" cy="22" r="6" fill="#E2AB5C"/>
+  <circle cx="68" cy="22" r="6" fill="#4FBFA0"/>
+  <text x="400" y="27" font-family="monospace" font-size="13" fill="#C7C2B2" text-anchor="middle">24fitcamp.local / schedule</text>
+
+  <rect x="32" y="72" width="736" height="60" rx="8" fill="#FFFFFF" stroke="#D9D3C1"/>
+  <text x="52" y="96" font-family="monospace" font-size="11" fill="#7A8078">MEMBERS ACTIVE</text>
+  <text x="52" y="118" font-family="Georgia, serif" font-size="20" fill="#1B2420">312</text>
+  <text x="252" y="96" font-family="monospace" font-size="11" fill="#7A8078">CLASSES TODAY</text>
+  <text x="252" y="118" font-family="Georgia, serif" font-size="20" fill="#1B2420">7</text>
+  <text x="452" y="96" font-family="monospace" font-size="11" fill="#7A8078">STAFF ON SHIFT</text>
+  <text x="452" y="118" font-family="Georgia, serif" font-size="20" fill="#1B2420">5</text>
+  <text x="652" y="96" font-family="monospace" font-size="11" fill="#7A8078">BILLING DUE</text>
+  <text x="652" y="118" font-family="Georgia, serif" font-size="20" fill="#E2694F">₱ 6,200</text>
+
+  <rect x="32" y="148" width="736" height="292" rx="8" fill="#FFFFFF" stroke="#D9D3C1"/>
+  <text x="52" y="176" font-family="monospace" font-size="11" fill="#7A8078">WEEKLY CLASS SCHEDULE</text>
+
+  <g font-family="monospace" font-size="10" fill="#7A8078">
+    <text x="100" y="204">MON</text><text x="220" y="204">TUE</text><text x="340" y="204">WED</text>
+    <text x="460" y="204">THU</text><text x="580" y="204">FRI</text><text x="700" y="204">SAT</text>
+  </g>
+  <line x1="52" y1="214" x2="748" y2="214" stroke="#EDE9DC"/>
+
+  <rect x="70" y="228" width="90" height="26" rx="4" fill="#DCEFE7"/>
+  <text x="78" y="245" font-family="monospace" font-size="9" fill="#164F41">Strength 6AM</text>
+
+  <rect x="190" y="228" width="90" height="26" rx="4" fill="#F5E3C8"/>
+  <text x="198" y="245" font-family="monospace" font-size="9" fill="#8A5F1F">Yoga 7AM</text>
+
+  <rect x="310" y="266" width="90" height="26" rx="4" fill="#DCEFE7"/>
+  <text x="318" y="283" font-family="monospace" font-size="9" fill="#164F41">HIIT 6PM</text>
+
+  <rect x="430" y="228" width="90" height="26" rx="4" fill="#F5E3C8"/>
+  <text x="438" y="245" font-family="monospace" font-size="9" fill="#8A5F1F">Spin 5PM</text>
+
+  <rect x="550" y="266" width="90" height="26" rx="4" fill="#DCEFE7"/>
+  <text x="558" y="283" font-family="monospace" font-size="9" fill="#164F41">Strength 6AM</text>
+
+  <rect x="670" y="228" width="90" height="26" rx="4" fill="#F5E3C8"/>
+  <text x="682" y="245" font-family="monospace" font-size="9" fill="#8A5F1F">Open Gym</text>
+
+  <text x="52" y="332" font-family="monospace" font-size="11" fill="#7A8078">RECENT SIGN-INS</text>
+  <line x1="52" y1="342" x2="748" y2="342" stroke="#EDE9DC"/>
+  <g font-family="monospace" font-size="10" fill="#4A5850">
+    <text x="52" y="364">J. Reyes</text><text x="300" y="364">Strength 6AM</text><text x="600" y="364" fill="#1F6F5C">Checked in</text>
+    <text x="52" y="388">M. Santos</text><text x="300" y="388">Yoga 7AM</text><text x="600" y="388" fill="#1F6F5C">Checked in</text>
+    <text x="52" y="412">A. Cruz</text><text x="300" y="412">Open Gym</text><text x="600" y="412" fill="#E2AB5C">Pending</text>
+  </g>
+</svg>

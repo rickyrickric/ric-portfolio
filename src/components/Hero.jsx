@@ -3,10 +3,10 @@ export default function Hero() {
     <header className="hero">
       <div className="hero__ticket">
         <span className="hero__eyebrow">Route Manifest — Tagum City, PH</span>
-        <span className="hero__eyebrow hero__eyebrow--right">No. RK-2026</span>
+        <span className="hero__eyebrow hero__eyebrow--right">No. RA-2026</span>
       </div>
 
-      <h1 className="hero__name">Rick</h1>
+      <h1 className="hero__name">Ric Angelo</h1>
 
       <p className="hero__role">
         BS Computer Science, AI major — UM Tagum College

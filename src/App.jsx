@@ -31,7 +31,7 @@ export default function App() {
   return (
     <div className="page">
       <nav className="topbar">
-        <span className="topbar__mark">RK</span>
+        <span className="topbar__mark">RA</span>
         <ThemeToggle theme={theme} onToggle={toggleTheme} />
       </nav>
 

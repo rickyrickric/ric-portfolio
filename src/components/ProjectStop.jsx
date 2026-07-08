@@ -15,6 +15,27 @@ export default function ProjectStop({ project, index, total }) {
 
         <h3 className="stop__name">{project.name}</h3>
 
+        <a
+          href={project.link}
+          target="_blank"
+          rel="noreferrer"
+          className="stop__preview"
+          aria-label={`View the ${project.name} system`}
+        >
+          <img
+            src={project.image}
+            alt={`${project.name} interface preview`}
+            className="stop__preview-image"
+            loading="lazy"
+          />
+          <span className="stop__preview-overlay">
+            <span className="stop__preview-text">View the system</span>
+            <span className="stop__preview-arrow" aria-hidden="true">
+              ↗
+            </span>
+          </span>
+        </a>
+
         <dl className="stop__narrative">
           <div className="stop__row">
             <dt>Problem</dt>
