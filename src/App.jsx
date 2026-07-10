@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import "./App.css";
 import Hero from "./components/Hero";
 import About from "./components/About";
+import GithubStats from "./components/GithubStats";
 import Projects from "./components/Projects";
 import Feedback from "./components/Feedback";
 import Footer from "./components/Footer";
@@ -37,6 +38,7 @@ export default function App() {
 
       <Hero />
       <About />
+      <GithubStats />
       <Projects />
       <Feedback />
       <Footer />
