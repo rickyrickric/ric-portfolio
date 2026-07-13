@@ -16,7 +16,7 @@ export const projects = [
   },
   {
     code: "TG-02",
-    line: "Circuit Line",
+    line: "Mobile Management System Line",
     name: "Herd-V Management System",
     status: "In development",
     image: "/projects/fitcamp.svg",
