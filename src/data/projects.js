@@ -34,8 +34,8 @@ export const projects = [
     line: "Forecast Line",
     name: "Weathering With You",
     status: "Actively refined",
-    image: "/projects/weathering.svg",
-    link: "https://github.com/",
+    image: "/projects/weathering.png",
+    link: "https://github.com/rickyrickric/weatheringwithyouwebapp",
     problem:
       "General-purpose weather apps miss the hyperlocal detail that actually matters for a specific city — Tagum's forecasts get flattened into a wider regional average.",
     solution:
