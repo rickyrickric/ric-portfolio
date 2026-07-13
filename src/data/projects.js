@@ -12,22 +12,22 @@ export const projects = [
       "A revenue management system built for the terminal: an admin dashboard with a collapsible sidebar, live KPI cards, fleet status, and a dispatch queue that shows what's moving and what's next.",
     impact:
       "Sized bottom-up rather than aspirationally — TAM, SAM, and SOM scoped to Tagum City using LTFRB Region XI data and real cooperative fleet counts, under a SaaS-plus-transaction-fee model.",
-    tags: ["React", "Node.js", "MySQL", "Dashboards"],
+    tags: ["React", "Node.js", "Firebase", "Dashboards"],
   },
   {
     code: "TG-02",
     line: "Circuit Line",
-    name: "24 Fit Camp",
-    status: "Coursework — shipped",
+    name: "Herd-V Management System",
+    status: "In development",
     image: "/projects/fitcamp.svg",
     link: "https://github.com/",
     problem:
-      "Local gyms run memberships, class schedules, staff shifts, and billing across spreadsheets and paper logs, with no single system tying it together.",
+      "Local farms using Legacy system, managing cattle Health and Milk yield based on assumption with no proper data.",
     solution:
-      "A full gym management ecosystem designed and documented for a Software Engineering course — covering members, classes, staff, and billing as one connected system.",
+      "A full Mobile application using Machine Learning Algorithm called Heirarchical Clustering.",
     impact:
-      "Delivered as a complete design package for CS 17/L, Software Engineering 2 — architecture, documentation, and a structured table of contents spanning every major section and appendix.",
-    tags: ["Software Engineering", "System Design", "Documentation"],
+      "Delivered as a complete mobile project package for CST9/L, Machine Learning — architecture, and documentation.",
+    tags: ["Machine Learning", "Flutter", "Dart", "Javascript", "Management System"],
   },
   {
     code: "TG-03",
@@ -42,6 +42,6 @@ export const projects = [
       "A weather app for Tagum City built on React, Express, and Supabase, blending OpenWeather, Open-Meteo, and PAGASA data through a custom ML regression service.",
     impact:
       "Refined tab by tab — the Forecast and Home views went through repeated UI/UX audits, each one tracked by KPI score, issue severity, and fix delta against the last.",
-    tags: ["React", "Supabase", "Machine Learning"],
+    tags: ["React", "Supabase", "Machine Learning", "Python", "Next.js"],
   },
 ];
